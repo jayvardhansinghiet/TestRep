@@ -1,0 +1,18 @@
+JENKINS Doc:
+
+1.Install Java.
+2.Install GIT and configure GIT.
+3.Create a GIT Account.
+4.Configuring SSH Keys.
+5.Install Jenkins.(jenkins.jnlp)
+6.Configure tools in Jenkins.
+
+
+
+
+Jenkins keeps all its important data in a special separate directory called the Jenkins home directory. Here, Jenkins stores information about your
+build server configuration, your build jobs, build artifacts, user accounts, and other useful information, as well as any plugins you may have installed.
+The Jenkins home directory format is backward compatible across versions, so you can freely update or reinstall your Jenkins executable without affecting your
+Jenkins home directory.
+
+Configure GIT on windows.
